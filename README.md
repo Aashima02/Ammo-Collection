@@ -119,8 +119,7 @@ actor, the bullet count increases, and the ammo actor disappears
 
 ## OUTPUT:
 
-### Ammo in Play MOD:
-![image](https://github.com/Aashima02/Ammo-Collection/assets/93427086/d9590640-c96d-4af1-bd34-5c13502d7a8d)
+
 
 ### Event Graph:
 ![image](https://github.com/Aashima02/Ammo-Collection/assets/93427086/234e5124-6d98-4769-9d52-01545828548d)
