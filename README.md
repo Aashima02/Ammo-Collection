@@ -60,10 +60,14 @@ the game, such as firing bullets or picking up ammo.
 ## OUTPUT:
 
 ### In Play Mode:
+![image](https://github.com/Aashima02/Ammo-Collection/assets/93427086/d9590640-c96d-4af1-bd34-5c13502d7a8d)
+
 
 ### Canvas:
+![image](https://github.com/Aashima02/Ammo-Collection/assets/93427086/412ffcd2-2333-4542-8dce-1d2d45a5ff89)
 
 ### Bullet Count Grap:
+![image](https://github.com/Aashima02/Ammo-Collection/assets/93427086/3440124b-e42f-4ed1-95fa-9d83da5a524a)
 
 ## ALGORITHM:
 
@@ -116,41 +120,19 @@ actor, the bullet count increases, and the ammo actor disappears
 ## OUTPUT:
 
 ### Ammo in Play MOD:
+![image](https://github.com/Aashima02/Ammo-Collection/assets/93427086/d9590640-c96d-4af1-bd34-5c13502d7a8d)
 
 ### Event Graph:
+![image](https://github.com/Aashima02/Ammo-Collection/assets/93427086/234e5124-6d98-4769-9d52-01545828548d)
 
 ### Increase Bullet Count in Ammo Actor:
+![image](https://github.com/Aashima02/Ammo-Collection/assets/93427086/944e89e8-f294-457f-88e4-5e7c93ba5893)
 
-### After Hitting Ammo:
 
 
 ## RESULT:
 
 Thus, added ammo to increase the bullet count and displayed it in
 play-mode
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
